@@ -64,3 +64,4 @@ function addAddress($secretKey) {
 
     echo json_encode(["message" => "Endereço criado com sucesso", "endereco" => $novoEndereco]);
 }
+

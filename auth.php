@@ -53,3 +53,4 @@ function createToken($login, $secretKey) {
 
     return $token;
 }
+
